@@ -1,0 +1,148 @@
+.containerMain {
+  margin: 0;
+  background-image: url("img/sfondofine.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#ricaricaSaldo {
+  display: none;
+  background-color:goldenrod;
+}
+
+#ripristinaPuntata {
+  background-color: rgb(178, 2, 2);
+}
+
+.highlight {
+  background-color: rgba(0, 0, 0, 0.552); /* Sfondo semitrasparente per visibilità */
+  padding: 0.3rem;
+  color: white; /* Colore del testo */
+  border-radius: 6px;
+  font-weight: bold;  
+}
+
+#failatuapuntata {
+  font-size: 40px;
+}
+
+.sfondoRosso {
+  background-color: red;
+  padding-inline: 2%;
+}
+
+.sfondoVerde {
+  background-color: rgb(19, 222, 19);
+  padding-inline: 2%;
+}
+
+.sfondoGiallo {
+  background-color: rgb(255, 230, 0);
+  padding-inline: 2%;
+}
+
+p, .testiSpan {
+  width: fit-content;
+  margin: auto;
+  color: white;
+  margin-bottom: 0.4rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px black;  
+}
+
+#containerDealer {
+  margin-top: 12vh;
+}
+
+#containerPartita {
+  display: none;
+  min-height: 100vh;
+  max-height: fit-content; 
+}
+
+#containerDealer, #containerGiocatore {
+  min-width: 90vw;
+}
+
+#containerCarteDealer, .containerCarteGiocatore {
+  min-height: 155px;
+}
+
+button {
+  background-color: #4CAF50; /* Verde scuro */
+  border: none;
+  color: white;
+  padding: 8px 16px; /* Più padding per pulsanti più grandi */
+  text-align: center;
+  font-size: 15px; /* Dimensione del font */
+  font-weight:600;
+  margin-top: 0;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 0.5rem;
+  border-radius: 10px; /* Bordo arrotondato */
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s; /* Transizione per hover */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Ombra per effetto 3D */
+}
+
+#intestazioneAssicurazione {
+  display: none;
+}
+
+button:hover {
+  background-color: #29cc2ff3; /* Colore più scuro al passaggio del mouse */
+  transform: translateY(-2px); /* Leggero sollevamento */
+}
+
+#containerPuntata button {
+  padding: 8px 16px;
+  font-size: 20px; /* Dimensione del font */
+  margin-top: 0;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 0.5rem;
+  font-weight: normal;
+}
+
+#containerSaldo {
+  position: absolute;
+  top: 10px; /* Sposta il saldo nella parte alta della pagina */
+  right: 20px; /* Posiziona il saldo nell'angolo destro */
+  background-color: rgba(0, 0, 0, 0.6); /* Sfondo semitrasparente per visibilità */
+  color: white; /* Colore del testo */
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  z-index: 1000; /* Assicura che rimanga sopra gli altri elementi */
+  font-size: 20px; /* Dimensione del testo leggibile */
+}
+
+.containerMano img,
+#containerCarteDealer img {
+ max-width: 7vw;
+}
+
+#errorePuntata {
+  /* background-color: rgba(255, 0, 0, 0.836); */
+  /* background-color: rgba(0, 0, 0, 0.568); */
+  color: red;
+  font-weight: 500;
+  text-shadow: 1px 1px 5px black;
+  padding-inline: 3%;    
+}
+
+#containerAssicurazione {
+  visibility: hidden;
+}
+
+#rigioca {
+  display: none;
+}

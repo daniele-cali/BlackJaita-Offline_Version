@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="169.013"
+   height="244.55016"
+   viewBox="-0.2 -236 169.07508 244.55017"
+   version="1.1"
+   id="svg2917"
+   sodipodi:docname="Svg-cards-2.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2919"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
+  <defs
+     id="defs354">
+    <g
+       id="ac">
+      <path
+         d="m 3.92,-7.93 c -1.67,0 -2.55,1.78 -3.01,3.56 -0.46,1.78 -0.5,3.56 -0.5,3.56 l -0.85,0.01 c 0,0 -0.16,-7.13 -3.5,-7.13 z"
+         id="path11" />
+      <path
+         d="M 6.75,-0.8 C 6.74,2.67 1.53,5.19 0,7.93 -1.53,5.18 -6.74,2.66 -6.75,-0.8 c 0,-1.64 1.51,-2.97 3.38,-2.97 1.86,0 3.37,1.33 3.37,2.97 0,-1.64 1.51,-2.97 3.38,-2.97 1.87,0 3.37,1.33 3.37,2.97 z"
+         id="path13" />
+    </g>
+    <g
+       id="aw"
+       transform="matrix(0.4,0,0,0.4,236.59,667.12)">
+      <path
+         id="bo"
+         transform="translate(-1.35,-0.76)"
+         d="m 355.65,280.19 c 0,0 -3.75,-8.1 -8.1,-12.6 -4.36,-4.51 -9.68,-7.58 -11.04,-6.53"
+         fill="#ffffff"
+         fill-opacity="1"
+         fill-rule="evenodd" />
+      <path
+         id="bn"
+         d="m 368.97,258.94 c -2.29,0.08 -5.9,1.92 -7.85,3.87 -2.59,2.6 -3.52,7.58 -3.59,9.44 -0.07,1.86 -1.32,-0.84 -2.19,-2.37 -0.86,-1.54 -1.93,-5.4 -2.22,-3.22 -0.28,2.2 -0.34,3.26 0.07,5.72 0.4,2.45 1.59,7.15 2.56,8.68 l 3.97,3.94 c 1.87,-1.88 3.1,-6.25 3.19,-6.25 l -0.07,9.34 4.35,4.32 c -1.16,-2.37 -1.94,-6.58 -1.63,-10.38 0.32,-3.8 2.3,-8.59 2.06,-10.44 -1.14,-0.4 -2.9,2.58 -5.21,1.88 -0.08,-1.75 0.74,-6.02 1.9,-7.69 1.17,-1.66 4.43,-5.7 6.41,-6.28 -0.36,-0.42 -0.99,-0.59 -1.75,-0.56 z"
+         fill="#ffffff"
+         fill-opacity="1"
+         fill-rule="evenodd" />
+      <path
+         id="bp"
+         transform="translate(-1.35,-0.76)"
+         d="m 329.36,254.28 c 9.62,-4.95 19.64,8.3 19.64,8.3 0,0 1.44,-9.25 3.32,-9.36 1.88,-0.11 4.87,7.31 4.87,7.31 0,0 5.76,-7.64 15.72,-7.58 9.97,0.05 11.57,9.13 5.87,9.57 -5.66,0.44 -2.38,-5.15 -2.27,-3.65 0.06,0.17 -5.37,-7.75 -19.15,7.86 -2.03,2.3 -3.94,-8.46 -4.93,-6.09 -1.21,2.88 -0.22,6.26 -1.11,8.53 1.39,1.71 -11.35,-13.84 -16.77,-9.58"
+         fill="#ffffff"
+         fill-opacity="1"
+         fill-rule="evenodd" />
+      <use
+         transform="matrix(0,1,1,0,74.5,-74.49)"
+         fill="#ffffff"
+         fill-opacity="1"
+         xlink:href="#bp"
+         id="use303" />
+      <use
+         transform="matrix(0,1,1,0,74.9,-74.93)"
+         fill="#ffffff"
+         fill-opacity="1"
+         xlink:href="#bo"
+         id="use305" />
+      <use
+         transform="matrix(0,1,1,0,74.82,-74.82)"
+         fill="#ffffff"
+         fill-opacity="1"
+         xlink:href="#bn"
+         id="use307" />
+    </g>
+    <text
+       id="ak"
+       transform="scale(0.32258,1.0574)"
+       font-family="'DejaVu Serif'"
+       font-size="43px"
+       font-weight="bold">10</text>
+    <path
+       id="ae"
+       d="m 0,0 c 0,3.78 3.09,6.87 6.87,6.87 h 152.845 c 3.77,0 6.86,-3.09 6.86,-6.87 v -228.4 c 0,-3.78 -3.09,-6.87 -6.86,-6.87 H 6.87 c -3.78,0 -6.87,3.09 -6.87,6.87 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2.5" />
+  </defs>
+  <use
+     x="1508.17"
+     y="729.41199"
+     xlink:href="#ae"
+     id="use2338"
+     transform="translate(-1507.12,-729.11527)" />
+  <use
+     x="1512.17"
+     y="530.29498"
+     xlink:href="#ak"
+     id="use2340"
+     transform="translate(-1507.12,-729.11527)" />
+  <use
+     transform="rotate(180,918.24,334.57236)"
+     x="1671.75"
+     y="699.13202"
+     xlink:href="#ak"
+     id="use2342" />
+  <use
+     transform="rotate(180,768.24,179.74236)"
+     x="1521.83"
+     y="544.29498"
+     xlink:href="#ac"
+     id="use2344" />
+  <use
+     x="1662.1"
+     y="685.13202"
+     xlink:href="#ac"
+     id="use2346"
+     transform="translate(-1507.12,-729.11527)" />
+  <use
+     transform="matrix(-2.4,0,0,-2.4,1596.88,332.68473)"
+     x="646.68103"
+     y="221.209"
+     xlink:href="#ac"
+     id="use2348" />
+  <use
+     transform="matrix(-2.4,0,0,-2.4,1596.88,441.00473)"
+     x="646.68103"
+     y="243.774"
+     xlink:href="#ac"
+     id="use2350" />
+  <use
+     transform="matrix(2.4,0,0,2.4,-1507.12,-729.11527)"
+     x="646.68103"
+     y="266.758"
+     xlink:href="#ac"
+     id="use2352" />
+  <use
+     transform="matrix(2.4,0,0,2.4,-1507.12,-729.11527)"
+     x="646.68103"
+     y="289.323"
+     xlink:href="#ac"
+     id="use2354" />
+  <use
+     transform="matrix(-2.4,0,0,-2.4,1756.68,332.68473)"
+     x="679.95502"
+     y="221.209"
+     xlink:href="#ac"
+     id="use2356" />
+  <use
+     transform="matrix(-2.4,0,0,-2.4,1756.68,441.00473)"
+     x="679.95502"
+     y="243.774"
+     xlink:href="#ac"
+     id="use2358" />
+  <use
+     transform="matrix(2.4,0,0,2.4,-1507.12,-729.11527)"
+     x="679.95502"
+     y="266.758"
+     xlink:href="#ac"
+     id="use2360" />
+  <use
+     transform="matrix(2.4,0,0,2.4,-1507.12,-729.11527)"
+     x="679.95502"
+     y="289.323"
+     xlink:href="#ac"
+     id="use2362" />
+  <use
+     transform="matrix(-2.4,0,0,-2.4,1676.88,386.84473)"
+     x="663.31799"
+     y="232.492"
+     xlink:href="#ac"
+     id="use2364" />
+  <use
+     transform="matrix(2.4,0,0,2.4,-1507.12,-729.11527)"
+     x="663.31799"
+     y="278.04001"
+     xlink:href="#ac"
+     id="use2366" />
+</svg>

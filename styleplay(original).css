@@ -1,0 +1,122 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-image: url('/img/sfondo7.jpg');
+    background-size: cover; /* Copre l'intera area senza tagli */
+    background-position: center; /* Centra l'immagine */
+    background-repeat: no-repeat; /* Evita la ripetizione */
+    height: 100vh; /* Altezza della pagina al 100% */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div{
+    border: 2px solid black;
+}
+
+.errore{
+    color: red;
+}
+
+#containerGiocata{
+    display: none;
+}
+
+/* Logo in alto a destra */
+#logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    height: 200px; /* Dimensione del logo */
+}
+
+h2 {
+    color: rgb(183, 197, 55); /* Colore del testo */
+}
+
+#dealer-cards, #your-cards {
+    margin: 15px 0; /* Margini per i contenitori delle carte */
+}
+
+/* Pulsanti stilizzati */
+button {
+    background-color: #4CAF50; /* Colore di sfondo */
+    border: none;
+    color: white; /* Colore del testo */
+    padding: 0; /* Rimuovi padding */
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex; /* Usa flexbox per centrare il testo */
+    justify-content: center; /* Allinea orizzontalmente al centro */
+    align-items: center; /* Allinea verticalmente al centro */
+    font-size: 30px; /* Aumenta la dimensione del font */
+    margin: 10px; /* Margine tra i pulsanti */
+    border-radius: 5px; /* Bordo arrotondato */
+    min-width: 100px; /* Larghezza fissa */
+    height: 50px; /* Altezza fissa */
+    cursor: pointer; /* Il cursore diventa una mano */
+    transition: transform 0.3s ease, font-size 0.3s ease; /* Transizione per ingrandire il testo */
+}
+button:hover {
+    background-color: coral;
+    transform: scale(1.3); /* Aumenta leggermente la grandezza del bottone al passaggio del mouse */
+}
+
+#results {
+    margin-top: 20px; /* Margine per il risultato */
+    font-weight: bold; /* Testo in grassetto */
+}
+.alert {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 1000; /* Assicura che il popup sia sopra gli altri elementi */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer; /*il cursore diventa una mano*/
+}
+
+.hidden {
+    display: none; /* Nasconde il popup quando non è necessario */
+}
+
+#close-alert {
+    margin-top: 10px;
+    background-color: #4CAF50; /* Colore del bottone */
+    color: white; /* Colore del testo */
+    border: none;
+    padding: 20px  25px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#close-alert:hover {
+    background-color: coral; /* Colore al passaggio del mouse */
+}
+#buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Spazio tra i bottoni */
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.nascosta {
+    display: none; /* Nasconde l'elemento quando non serve */
+}
